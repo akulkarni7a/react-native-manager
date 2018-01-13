@@ -15,4 +15,8 @@ Firebase:
 
 Login Form:
 10. Copy over common components from previous projects
-11.
+11. Create helper function onEmailChange()
+12. Create Actions folder
+13. Create index.js and put in emailChanged action
+14. import connect from React-Redux
+15. import email changed from actions folder
